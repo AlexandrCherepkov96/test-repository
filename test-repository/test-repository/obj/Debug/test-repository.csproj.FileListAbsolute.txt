@@ -1,0 +1,10 @@
+C:\Users\1645284\Dropbox\Мой ПК (LAPTOP-DLMS8SSI)\Desktop\test-repository\test-repository\test-repository\bin\Debug\test-repository.exe.config
+C:\Users\1645284\Dropbox\Мой ПК (LAPTOP-DLMS8SSI)\Desktop\test-repository\test-repository\test-repository\bin\Debug\test-repository.exe
+C:\Users\1645284\Dropbox\Мой ПК (LAPTOP-DLMS8SSI)\Desktop\test-repository\test-repository\test-repository\bin\Debug\test-repository.pdb
+C:\Users\1645284\Dropbox\Мой ПК (LAPTOP-DLMS8SSI)\Desktop\test-repository\test-repository\test-repository\obj\Debug\test-repository.csproj.AssemblyReference.cache
+C:\Users\1645284\Dropbox\Мой ПК (LAPTOP-DLMS8SSI)\Desktop\test-repository\test-repository\test-repository\obj\Debug\test_repository.Form1.resources
+C:\Users\1645284\Dropbox\Мой ПК (LAPTOP-DLMS8SSI)\Desktop\test-repository\test-repository\test-repository\obj\Debug\test_repository.Properties.Resources.resources
+C:\Users\1645284\Dropbox\Мой ПК (LAPTOP-DLMS8SSI)\Desktop\test-repository\test-repository\test-repository\obj\Debug\test-repository.csproj.GenerateResource.cache
+C:\Users\1645284\Dropbox\Мой ПК (LAPTOP-DLMS8SSI)\Desktop\test-repository\test-repository\test-repository\obj\Debug\test-repository.csproj.CoreCompileInputs.cache
+C:\Users\1645284\Dropbox\Мой ПК (LAPTOP-DLMS8SSI)\Desktop\test-repository\test-repository\test-repository\obj\Debug\test-repository.exe
+C:\Users\1645284\Dropbox\Мой ПК (LAPTOP-DLMS8SSI)\Desktop\test-repository\test-repository\test-repository\obj\Debug\test-repository.pdb
